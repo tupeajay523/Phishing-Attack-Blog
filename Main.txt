@@ -1,0 +1,27 @@
+🔐 Phishing Attack: Phishing is a cyberattack in which attackers try to trick users into revealing sensitive information (like usernames, passwords, 
+credit card numbers, or other personal data) by pretending to be a trusted entity, usually via email, messages, or fake websites.
+
+⚠️ Impact of Phishing Attacks: 
+Data Theft – Steals personal or financial data.
+Identity Theft – Misuses your identity for fraud.
+Financial Loss – Leads to loss of money from accounts.
+Malware Infection – Installs ransomware or spyware via malicious links.
+Reputation Damage – Affects individuals and organizations.
+Account Compromise – Takes control of your emails, banking, or social media.
+Business Disruption – Causes downtime and operational loss.
+
+🛡️ Prevention Tips Against Phishing Attacks:
+Do Not Click on Suspicious Links – Hover over links to verify before clicking.
+Verify the Sender – Check email addresses carefully.
+Use Multi-Factor Authentication (MFA) – Adds an extra layer of security.
+Keep Software Updated – Patches known vulnerabilities.
+Use Spam Filters – Helps filter out phishing emails.
+Educate Yourself & Others – Awareness is key; attend cybersecurity training.
+Check for HTTPS – Secure websites use HTTPS (padlock in the address bar).
+Use Security Software – Antivirus, anti-malware, and firewalls.
+Report Phishing – Notify your organization or email provider.
+Don’t Share Sensitive Info via Email or Phone – Banks or official sites never ask for passwords via email.
+
+
+Stay alert, verify links, and protect your digital identity! 🚫🎣
+#CyberSecurity #PhishingAwareness
